@@ -1,6 +1,7 @@
 # wijot Privacy Policy
 
-Effective date: April 1, 2026
+Effective date: March 15, 2026
+Last updated: April 3, 2026
 
 ## 1. Scope
 
