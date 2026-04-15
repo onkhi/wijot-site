@@ -1,7 +1,7 @@
 # Política de privacidad de wijot
 
 Fecha de entrada en vigor: 15 de marzo de 2026
-Última actualización: 3 de abril de 2026
+Última actualización: 15 de abril de 2026
 
 ## 1. Alcance
 
@@ -21,7 +21,7 @@ La facturación, los métodos de pago y otros datos de pago son gestionados por 
 
 ### 2.3 Información que proporcionas al contactar con soporte
 
-Si contactas con soporte, podemos recibir la información que decidas proporcionar, como tu nombre, dirección de correo electrónico, contenido del mensaje y archivos adjuntos.
+Si contactas con soporte por correo electrónico o mediante el formulario de contacto dentro de la app, podemos recibir la información que decidas proporcionar, como tu dirección de correo electrónico para respuesta, el contenido del mensaje, la versión de la app, la versión de iOS, el modelo del dispositivo, el nombre del plan, los pasos para reproducir el problema y cualquier archivo que envíes por correo electrónico. Puedes escribir tu mensaje en cualquier idioma.
 
 ## 3. Finalidades de uso
 
@@ -40,7 +40,12 @@ Usamos la información anterior para las siguientes finalidades.
 Apple participa en la distribución a través del App Store, las compras dentro de la app, la gestión de suscripciones y la restauración de compras.  
 El tratamiento de la información relacionada también está sujeto a las condiciones y políticas de privacidad de Apple.
 
-### 4.2 SDK de analítica y publicidad
+### 4.2 Google
+
+Si usas el formulario de contacto dentro de la app, tu consulta puede procesarse a través de Google Forms y de una hoja de cálculo vinculada mediante los servicios de Google.  
+El tratamiento de esta información también puede estar sujeto a las condiciones del servicio y a las políticas de privacidad de Google.
+
+### 4.3 SDK de analítica y publicidad
 
 En este momento, la implementación actual no incluye SDK personalizados de analítica ni de publicidad.  
 Si esto cambia en el futuro, esta política se actualizará.
@@ -48,7 +53,7 @@ Si esto cambia en el futuro, esta política se actualizará.
 ## 5. Transmisión externa y almacenamiento
 
 En este momento, la implementación actual no incluye una función propia para sincronizar o subir el contenido de las notas a servidores operados por nosotros.  
-No obstante, la información puede procesarse a través de los canales de soporte que utilices o de la infraestructura de compras de Apple cuando corresponda.
+No obstante, si usas el formulario de contacto dentro de la app, la información de tu consulta puede transmitirse y almacenarse a través de Google Forms y de una hoja de cálculo vinculada. La información también puede procesarse a través del correo electrónico u otros canales de soporte que utilices, o de la infraestructura de compras de Apple cuando corresponda.
 
 ## 6. Tus opciones
 
@@ -59,6 +64,17 @@ Puedes gestionar lo siguiente según lo necesites.
 - Dejar de contactar con soporte
 
 Como los datos locales pueden perderse por fallos del dispositivo, eliminación de la app o falta de copias de seguridad, gestiona tus copias y conservación según te convenga.
+
+## 7. Cambios
+
+Podemos actualizar esta política por requisitos legales, cambios de funciones o necesidades operativas.  
+Si hay un cambio importante, lo notificaremos por un medio apropiado.
+
+## 8. Contacto
+
+- Nombre del operador: `Kai Onishi`
+- Correo electrónico: `bigwestopen@gmail.com`
+- Sitio web: `https://onkhi.github.io/wijot-site/`
 
 ## 7. Cambios
 
