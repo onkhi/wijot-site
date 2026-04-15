@@ -3,6 +3,9 @@
 Contact assistance : `bigwestopen@gmail.com`  
 Site web : `https://onkhi.github.io/wijot-site/`
 
+Si le formulaire de contact dans l’app est disponible depuis l’écran d’information, merci de l’utiliser en priorité.  
+Il ouvre une page Google Forms dans l’app et vous pouvez écrire votre message dans n’importe quelle langue.
+
 ## 1. Présentation de l’app
 
 wijot est une app de notes et de listes simple et rapide.  
@@ -49,6 +52,9 @@ Si possible, merci d’inclure les éléments suivants lorsque vous signalez un 
 
 ## 4. Contact
 
+- Formulaire de contact dans l’app : ouvrez-le depuis l’écran d’information lorsqu’il est disponible (il ouvre une page Google Forms dans l’app)
+- Google Forms : [Ouvrir le formulaire de contact](https://docs.google.com/forms/d/e/1FAIpQLSeWmf2BTN_DctT19fi1rIhF-XGuLYCeoqtepJjfeDPSPMoFqg/viewform?usp=publish-editor)
+- Messages : vous pouvez écrire votre message dans n’importe quelle langue
 - Adresse e-mail : `bigwestopen@gmail.com`
 - Site web : `https://onkhi.github.io/wijot-site/`
 
