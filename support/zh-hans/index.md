@@ -3,6 +3,9 @@
 支持邮箱：`bigwestopen@gmail.com`  
 网站：`https://onkhi.github.io/wijot-site/`
 
+如果信息页面中显示应用内联系表单，请优先使用该表单。  
+该表单会在应用内打开 Google Forms，咨询内容可以使用任何语言填写。
+
 ## 1. 应用简介
 
 wijot 是一款简洁且快速的清单备忘录应用。  
@@ -49,6 +52,9 @@ wijot Premium 可解除行数限制。
 
 ## 4. 联系方式
 
+- 应用内联系表单: 如果可用，请从信息页面打开（会在应用内打开 Google Forms）
+- Google Forms: [打开联系表单](https://docs.google.com/forms/d/e/1FAIpQLSeWmf2BTN_DctT19fi1rIhF-XGuLYCeoqtepJjfeDPSPMoFqg/viewform?usp=publish-editor)
+- 咨询内容: 可以使用任何语言填写
 - 电子邮箱: `bigwestopen@gmail.com`
 - 网站: `https://onkhi.github.io/wijot-site/`
 
