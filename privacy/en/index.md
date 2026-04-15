@@ -1,7 +1,7 @@
 # wijot Privacy Policy
 
 Effective date: March 15, 2026
-Last updated: April 3, 2026
+Last updated: April 15, 2026
 
 ## 1. Scope
 
@@ -21,7 +21,7 @@ Billing, payment methods, and other payment details are handled by Apple.
 
 ### 2.3 Information you provide when contacting support
 
-If you contact support, we may receive the information you choose to provide, such as your name, email address, message content, and attachments.
+If you contact support by email or through the in-app contact form, we may receive the information you choose to provide, such as your reply email address, message content, app version, iOS version, device model, plan name, steps to reproduce, and any files you send by email. You may write your message in any language.
 
 ## 3. Purposes of use
 
@@ -40,7 +40,12 @@ We use the information above for the following purposes.
 Apple is involved in App Store distribution, in-app purchases, subscription management, and purchase restoration.  
 The handling of related information is also subject to Apple's terms and privacy policies.
 
-### 4.2 Analytics and advertising SDKs
+### 4.2 Google
+
+If you use the in-app contact form, your inquiry may be processed through Google Forms and a linked spreadsheet operated through Google services.  
+The handling of this information may also be subject to Google's service terms and privacy-related policies.
+
+### 4.3 Analytics and advertising SDKs
 
 At this time, the current implementation does not include custom analytics SDKs or advertising SDKs.  
 If this changes in the future, this policy will be updated.
@@ -48,7 +53,7 @@ If this changes in the future, this policy will be updated.
 ## 5. External transmission and storage
 
 At this time, the current implementation does not include a custom feature that syncs or uploads memo content to servers operated by us.  
-However, information may be processed through support channels you use or through Apple's purchase infrastructure when applicable.
+However, if you use the in-app contact form, inquiry information may be transmitted and stored through Google Forms and a linked spreadsheet. Information may also be processed through email or other support channels you use, or through Apple's purchase infrastructure when applicable.
 
 ## 6. Your choices
 
