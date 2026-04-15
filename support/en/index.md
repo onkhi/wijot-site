@@ -3,6 +3,9 @@
 Support contact: `bigwestopen@gmail.com`  
 Website: `https://onkhi.github.io/wijot-site/`
 
+If the in-app contact form is available from the information screen, please use it first.  
+It opens a Google Forms page in the app, and messages may be written in any language.
+
 ## 1. App overview
 
 wijot is a simple and fast checklist memo app.  
@@ -49,6 +52,9 @@ If possible, please include the following when reporting a problem.
 
 ## 4. Contact
 
+- In-app contact form: Open it from the information screen when available (it opens a Google Forms page in the app)
+- Google Forms: [Open the contact form](https://docs.google.com/forms/d/e/1FAIpQLSeWmf2BTN_DctT19fi1rIhF-XGuLYCeoqtepJjfeDPSPMoFqg/viewform?usp=publish-editor)
+- Messages: You may write your message in any language
 - Email address: `bigwestopen@gmail.com`
 - Website: `https://onkhi.github.io/wijot-site/`
 
