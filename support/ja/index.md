@@ -3,6 +3,9 @@
 お問い合わせ先: `bigwestopen@gmail.com`
 Webサイト: `https://onkhi.github.io/wijot-site/`
 
+情報画面にアプリ内のお問い合わせフォームが表示される場合は、まずそちらをご利用ください。  
+フォームはアプリ内で Google Forms を開き、お問い合わせメッセージはどの言語で書いてもかまいません。
+
 ## 1. アプリ概要
 
 wijot は、シンプルで高速なチェックリストメモアプリです。  
@@ -49,6 +52,9 @@ wijot Premium では行数制限がなくなります。
 
 ## 4. お問い合わせ先
 
+- アプリ内のお問い合わせフォーム: 利用できる場合は情報画面から開いてください（アプリ内で Google Forms が開きます）
+- Google Forms: [お問い合わせフォームを開く](https://docs.google.com/forms/d/e/1FAIpQLSeWmf2BTN_DctT19fi1rIhF-XGuLYCeoqtepJjfeDPSPMoFqg/viewform?usp=publish-editor)
+- お問い合わせメッセージ: どの言語で書いてもかまいません
 - メールアドレス: `bigwestopen@gmail.com`
 - Webサイト: `https://onkhi.github.io/wijot-site/`
 
