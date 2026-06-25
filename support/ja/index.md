@@ -1,7 +1,7 @@
 # wijot サポート
 
-お問い合わせ先: `bigwestopen@gmail.com`
-Webサイト: `https://onkhi.github.io/wijot-site/`
+- お問い合わせ先: `bigwestopen@gmail.com`
+- Webサイト: `https://onkhi.github.io/wijot-site/`
 
 情報画面にアプリ内のお問い合わせフォームが表示される場合は、まずそちらをご利用ください。  
 フォームはアプリ内で Google Forms を開き、お問い合わせメッセージはどの言語で書いてもかまいません。
