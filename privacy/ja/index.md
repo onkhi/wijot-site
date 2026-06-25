@@ -78,18 +78,3 @@ App Store での配布、アプリ内課金、サブスクリプション管理�
 
 当方は、法令、機能変更、運営上の必要性等に応じて本ポリシーを改定することがあります。  
 重要な変更がある場合は、適切な方法で周知します。
-
-## 8. お問い合わせ先
-
-- 運営者名: `Kai Onishi`
-- メールアドレス: `bigwestopen@gmail.com`
-- Webサイト: `https://onkhi.github.io/wijot-site/`
-
-当方は、法令、機能変更、運営上の必要性等に応じて本ポリシーを改定することがあります。  
-重要な変更がある場合は、適切な方法で周知します。
-
-## 8. お問い合わせ先
-
-- 運営者名: `Kai Onishi`
-- メールアドレス: `bigwestopen@gmail.com`
-- Webサイト: `https://onkhi.github.io/wijot-site/`
